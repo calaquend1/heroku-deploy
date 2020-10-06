@@ -40,7 +40,7 @@ function App() {
         <h2>Check Your Local Weather</h2>
         <div className='list-wrapper'>Enter a place. Valid entries include:
           <ul>
-            <li>city,state</li>
+            <li>city,state, location</li>
             <li>lat,long</li>
             <li>city,country</li>
             <li>US / CA postal code</li>
